@@ -3,8 +3,9 @@ public class Main {
 // code below will print out the variable MyName       
         String MyName = "Java is awesome!";
         System.out.println("I think " + MyName);
+        System.out.println("But we'll see how it goes.");
     }
-
+    
 }
 
 
