@@ -1,10 +1,8 @@
-/*
 public class Main {
-    public static void main(String[] args) {
-// code below will print out the variable MyName       
-        String MyName = "Java is awesome!";
-        System.out.println("I think " + MyName);
-        System.out.println("But we'll see how it goes. Time will tell.");
+    public static void main(String[] args) {      
+        int x = 1000, y = 2000, z =3000;
+        System.out.println(x + y + z);
+
     }
 
-} */
+}
