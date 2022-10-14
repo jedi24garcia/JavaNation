@@ -18,7 +18,4 @@ public class Main {
     }        
 }
 
-
-//int x = 1000, y = 2000, z =3000;
-//System.out.println(x * y * z);
- 
+// just added a comment. Will need to learn more. 
